@@ -1,0 +1,35 @@
+_repo: The-Picture-of-Dorian-Gray_174
+creator:
+  author:
+    agent_name: Wilde, Oscar
+    alias: Wilde, Oscar Fingal O'Flahertie Wills
+    birthdate: 1854
+    deathdate: 1900
+    gutenberg_agent_id: '111'
+    url: http://www.gutenberg.org/2009/agents/111
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Oscar_Wilde
+    - http://fr.wikipedia.org/wiki/Oscar_Wilde
+gutenberg_bookshelf:
+- Movie Books
+- Gothic Fiction
+gutenberg_issued: '1994-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '174'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- '!lcsh:Paranormal fiction'
+- '!lcsh:London (England) -- History -- 1800-1950 -- Fiction'
+- '!lcsh:Didactic fiction'
+- '!lcsh:Appearance (Philosophy) -- Fiction'
+- '!lcsh:Portraits -- Fiction'
+- '!lcsh:Conduct of life -- Fiction'
+- '!lcsh:Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- '!lcc:PR'
+- '!lcsh:Supernatural -- Fiction'
+title: The Picture of Dorian Gray
+url: http://www.gutenberg.org/ebooks/174
