@@ -17,8 +17,8 @@ creator:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
 gutenberg_bookshelf:
-- Movie Books
 - Gothic Fiction
+- Movie Books
 gutenberg_issued: '1994-10-01'
 gutenberg_type: Text
 identifiers:
@@ -28,14 +28,14 @@ publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
 subjects:
-- '!lcsh:Paranormal fiction'
-- '!lcsh:London (England) -- History -- 1800-1950 -- Fiction'
-- '!lcsh:Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
-- '!lcsh:Conduct of life -- Fiction'
-- '!lcsh:Supernatural -- Fiction'
-- '!lcc:PR'
-- '!lcsh:Didactic fiction'
-- '!lcsh:Appearance (Philosophy) -- Fiction'
-- '!lcsh:Portraits -- Fiction'
+- '!lcc: PR'
+- '!lcsh: Didactic fiction'
+- '!lcsh: Appearance (Philosophy) -- Fiction'
+- '!lcsh: Conduct of life -- Fiction'
+- '!lcsh: Paranormal fiction'
+- '!lcsh: Supernatural -- Fiction'
+- '!lcsh: Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
+- '!lcsh: London (England) -- History -- 1800-1950 -- Fiction'
+- '!lcsh: Portraits -- Fiction'
 title: The Picture of Dorian Gray
 url: http://www.gutenberg.org/ebooks/174
