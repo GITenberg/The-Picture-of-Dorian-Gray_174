@@ -1,5 +1,5 @@
 _repo: The-Picture-of-Dorian-Gray_174
-_version: 0.1.0
+_version: 0.1.1
 covers:
 - attribution: Maelle Doliveux, 2015
   cover_type: original
@@ -17,6 +17,8 @@ creator:
     wikipedia:
     - http://fr.wikipedia.org/wiki/Oscar_Wilde
     - http://en.wikipedia.org/wiki/Oscar_Wilde
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/174#The-Picture-of-Dorian-Gray
 gutenberg_bookshelf:
 - Gothic Fiction
 - Movie Books
