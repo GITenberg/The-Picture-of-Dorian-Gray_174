@@ -1,5 +1,5 @@
 _repo: The-Picture-of-Dorian-Gray_174
-_version: 0.1.2
+_version: 0.1.3
 covers:
 - attribution: Maelle Doliveux, 2015
   cover_type: original
@@ -41,5 +41,6 @@ subjects:
 - '!lcsh: Great Britain -- History -- Victoria, 1837-1901 -- Fiction'
 - '!lcsh: London (England) -- History -- 1800-1950 -- Fiction'
 - '!lcsh: Portraits -- Fiction'
+- GITenberg
 title: The Picture of Dorian Gray
 url: http://www.gutenberg.org/ebooks/174
